@@ -1,0 +1,48 @@
+/* Home.css */
+.card-body {
+    background-color: #f8f9fa;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    text-align: center;
+    margin: 50px auto;
+    width: 70%;
+  }
+  
+  .text-uppercase {
+    color: #333;
+  }
+  
+  .mb-5 {
+    margin-bottom: 1.25rem;
+  }
+  
+  .text-center {
+    text-align: center;
+  }
+  
+  .btn-success {
+    background-color: #28a745;
+    border-color: #28a745;
+  }
+  
+  .btn-success:hover {
+    background-color: #218838;
+    border-color: #1e7e34;
+  }
+  
+  .gradient-custom-4 {
+    background-image: linear-gradient(to bottom, #86c6ff, #59a6ff);
+    color: white;
+  }
+  
+  .text-body {
+    color: #333;
+  }
+  
+  .center {
+    display: block;
+    margin: 0 auto;
+  }
+  
+  
